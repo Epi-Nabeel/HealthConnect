@@ -7,6 +7,9 @@
 #### **Description:**
 Health Connect is an Android application designed to manage and track medical records, appointments, consultations, medication logs, and patient details. It offers a user-friendly interface, well-structured navigation, and functionality for medical tracking and data management.
 
+Please go through the video for detailed presentation done by my team
+https://www.dropbox.com/scl/fi/wxyhfvicbfh6rzl0s7bp7/health-connect-app.mp4?rlkey=shgo1a00gicjs3wvjuxlhdqrx&st=j1b45bt0&dl=0
+
 ---
 
 ### **Project Structure**
