@@ -124,7 +124,6 @@ Health Connect is an Android application designed to manage and track medical re
 
 ---
 
----
 
 ### **Screenshots**
 
