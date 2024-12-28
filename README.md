@@ -53,6 +53,7 @@ https://www.dropbox.com/scl/fi/wxyhfvicbfh6rzl0s7bp7/health-connect-app.mp4?rlke
 1. **Prerequisites:**
    - Android Studio installed.
    - Android SDK configured (minimum API level 23, target API 34).
+   - Make sure to unzip all the folders
 
 2. **Cloning the Repository:**
    ```bash
