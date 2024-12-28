@@ -124,6 +124,31 @@ Health Connect is an Android application designed to manage and track medical re
 
 ---
 
+---
+
+### **Screenshots**
+
+1. **Homepage:**  
+   ![Homepage](https://github.com/Epi-Nabeel/HealthConnect/blob/main/screenshots/Screenshot%202024-12-28%20094936.png)
+
+2. **Patient Records:**  
+   ![Patient Records](https://github.com/Epi-Nabeel/HealthConnect/blob/main/screenshots/Screenshot%202024-12-28%20100251.png)
+
+3. **Consultation History:**  
+   ![Consultation](https://github.com/Epi-Nabeel/HealthConnect/blob/main/screenshots/Screenshot%202024-12-28%20100304.png)
+
+4. **Medical Tracking:**  
+   ![Medical Tracking](https://github.com/Epi-Nabeel/HealthConnect/blob/main/screenshots/Screenshot%202024-12-28%20100315.png)
+
+5. **Appointments:**  
+   ![Appointments](https://github.com/Epi-Nabeel/HealthConnect/blob/main/screenshots/Screenshot%202024-12-28%20100324.png)
+
+6. **Medicine List:**  
+   ![Medicine List](https://github.com/Epi-Nabeel/HealthConnect/blob/main/screenshots/Screenshot%202024-12-28%20100335.png)
+
+---
+
+
 ### **Contributions**
 
 Contributors can follow these steps to contribute:
